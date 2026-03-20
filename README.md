@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=justdubit&project=just-dub-it&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # JustDubit: Video Dubbing via Joint Audio-Visual Diffusion
 
 [![Website](https://img.shields.io/badge/Project-Page-181717?logo=google-chrome)](https://justdubit.github.io)
